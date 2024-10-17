@@ -1,10 +1,8 @@
-﻿# looper
+#Looper
 
----
+###Q1
+![1](https://github.com/user-attachments/assets/b56c6194-e3e3-47e2-9d7c-f2c37bc67511)
 
-url
----
+###Q2
 
-
-
-![3](https://github.com/user-attachments/assets/5df72f6e-ef88-4c6f-9560-b6dcf6b32b3c)
+###Q3
